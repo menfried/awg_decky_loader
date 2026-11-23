@@ -19,7 +19,7 @@
 
 Нужен Steam Deck с установленным Decky Loader. [Установка Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader#-installation)
 
-1. Скачайте [AmneziaWG-Decky.zip](release/AmneziaWG-Decky.zip) на Steam Deck.
+1. Скачайте [AmneziaWG-Decky.zip](https://github.com/menfried/awg_decky_loader/releases/download/v0.4.5/AmneziaWG-Decky.zip) на Steam Deck.
 2. В Gaming Mode нажмите **⋯ → Decky → ⚙️ → General** и включите **Developer Mode**.
 3. Откройте **Developer → Install Plugin from ZIP File**, выберите скачанный ZIP и подтвердите установку.
 4. Откройте **AmneziaWG** в меню Decky. При первом открытии плагин автоматически установит сетевые инструменты из архива. Весь процесс проходит в Gaming Mode.
